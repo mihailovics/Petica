@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1520867710 source:c:\users\mihailovics\desktop\domaci\main.cpp
+	<iostream>
+	<iostream>
+	<list>
+	<queue>
+	<string>
+	<stack>
+	<vector>
+
