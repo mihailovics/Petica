@@ -1,0 +1,31 @@
+html{
+	position:relative;
+	min-height: 100%;
+}
+
+body {
+  padding-top: 54px;
+   margin: 0 0 100px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+footer{
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+	
+}
+.logo{
+	height:300px;
+	width:300px;
+	border:0;
+	background-color:transparent;
+}
+
