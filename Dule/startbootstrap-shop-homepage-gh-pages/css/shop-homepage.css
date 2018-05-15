@@ -28,4 +28,17 @@ footer{
 	border:0;
 	background-color:transparent;
 }
+#kat{
+    
+    padding-left: 50px;
+}
+#contet{
+    margin-top: 15px;
+}
+#textbox{
+    width:750px;
+}
+.searchbox{
+    margin-top: 35px;
+}
 
